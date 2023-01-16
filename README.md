@@ -23,7 +23,7 @@ Lattice Wrangling Notebook: https://github.com/Lattice-Data/lattice-tools/blob/m
 
 
 ## High-Level Workflow
-![image](https://github.com/ebi-ait/cellxgene-wrangling/images)
+![image](https://github.com/ebi-ait/cellxgene-wrangling/images/high-level_workflow.png)
 edit the workflow on [miro](https://miro.com/app/live-embed/uXjVPyD_8Yc=/?moveToViewport=-5512,-3242,5081,2945&embedId=202864987648)
 
 ## Further Development
